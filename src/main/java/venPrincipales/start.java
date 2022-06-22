@@ -1,6 +1,7 @@
-package com.technolygames.base2.venPrincipales;
+package venPrincipales;
 
-import com.technolygames.base2.clases.datos;
+import clases.datos;
+
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

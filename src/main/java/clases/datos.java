@@ -1,4 +1,4 @@
-package com.technolygames.base2.clases;
+package clases;
 
 import java.sql.Connection;
 import java.sql.SQLException;

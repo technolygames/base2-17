@@ -1,6 +1,6 @@
-package com.technolygames.base2.main;
+package main;
 
-import com.technolygames.base2.venPrincipales.start;
+import venPrincipales.start;
 
 public class main{
     public static void main(String[] args){
