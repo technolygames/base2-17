@@ -12,6 +12,9 @@ public class start extends javax.swing.JFrame{
         initComponents();
         
         botones();
+        
+        setLocationRelativeTo(null);
+        setResizable(false);
     }
     
     protected PreparedStatement ps;
